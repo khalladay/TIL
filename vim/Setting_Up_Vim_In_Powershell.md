@@ -32,3 +32,10 @@ New-Alias -Name vim -Value 'C:\Program Files (x86)\vim\vim80\vim.exe'
 
 Set-PSReadlineOption -EditMode vi -BellStyle None
 ```
+
+If after adding the above to your profile, you get errors when starting powershell sessions about being unable to load PS-Readline, you need to change your execution policy, with the following command (in an admin prompt)
+
+```powershell
+#Set policy to RemoteSigned (includes your own unsigned scripts)
+Set-ExecutionPolicy RemoteSigned
+```
