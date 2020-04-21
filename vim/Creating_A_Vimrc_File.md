@@ -27,4 +27,7 @@ set tabstop=2
 set shiftwidth=2
 set autoindent
 set smartindent
+
+" Remap esc to jk
+:imap jk <Esc>
 ```
