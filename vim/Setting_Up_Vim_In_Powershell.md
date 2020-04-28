@@ -16,18 +16,13 @@ Find-Package -Name PSReadline
 Install-Package -Name PSReadline -Force
 ```
 
-Now to actually get Vim, use something like the following (adjusted for a newer version of vim if you want)
-
-```powershell
-Invoke-WebRequest -Uri https://ftp.nluug.nl/pub/vim/pc/gvim80-586.exe `
-  -Outfile ~\Downloads\gvim80-586.exe
-```
+Now to actually get Vim, just go to [vim.org](vim.org) and download the most recent. At the time of writing this, it was 8.2. Alternatively, install it via chocolatey or homebrew, depending on your platform. 
 
 Then run the exe that is downloaded to get things setup. Then to finish off the setup (so that powershell actually lets you use vim), you need to add the following to your Powershell Profile: 
 
 ```powershell
 # Add these lines to your $PROFILE
-New-Alias -Name vi -Value 'C:\Program Files (x86)\vim\vim80\vim.exe'
+New-Alias -Name vi -Value 'C:\Program Files (x86)\vim\vim82\vim.exe'
 New-Alias -Name vim -Value 'C:\Program Files (x86)\vim\vim80\vim.exe'
 
 Set-PSReadlineOption -EditMode vi -BellStyle None
