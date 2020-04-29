@@ -21,7 +21,11 @@ A collection of small write-up of things that I learn day to day. Inspired by [@
 ### Vim
 * [Creating a .vimrc File](vim/Creating_A_Vimrc_File.md)
 * [Installing Plugins](vim/Adding_a_Plugin.md)
+* [Switch To Normal Mode For 1 Command](vim/Normal_Mode_For_One_Command.md)
 * [Setting Up Vim In Powershell](vim/Setting_Up_Vim_In_Powershell)
+
+## Visual Studio
+* [VS Shortcuts That Complement VsVim](visualstudio/KeyCommands_That_Complement_VsVim.md)
 
 ### VsCode
 * [Navigating Editor Panels With Key Commands](vscode/Navigating_Editor_Panels_KeyCommands.md)

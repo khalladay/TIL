@@ -17,6 +17,7 @@ Visual Studio is full of key commands, but I've disabled a lot of them in favor 
 The following are key shortcuts I added to Visual Studio (using the Tools->Options->Environment->Keyboard menu. 
 
 | Shortcut | Effect | 
+|----------|--------|
 | Shift + Alt + F | Go To Find Results 1 | 
 
 There are still problems to be solved: 
