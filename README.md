@@ -16,6 +16,7 @@ A collection of small write-up of things that I learn day to day. Inspired by [@
 
 ### PowerShell
 * [Creating a PowerShell Profile Script](powershell/Powershell_Profile_Scripts.md)
+* [Killing Processes](powershell/Killing_Processes.md)
 * [Script Preconditions](powershell/Require_Preconditions_To_Run_Powershell.md)
 
 ### Vim
