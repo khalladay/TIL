@@ -21,6 +21,7 @@ A collection of small write-up of things that I learn day to day. Inspired by [@
 
 ### Vim
 * [Creating a .vimrc File](vim/Creating_A_Vimrc_File.md)
+* [Delete A World Under The Cursor](vim/Delete_Word_Under_Cursor.md)
 * [Installing Plugins](vim/Adding_a_Plugin.md)
 * [Switch To Normal Mode For 1 Command](vim/Normal_Mode_For_One_Command.md)
 * [Setting Up Vim In Powershell](vim/Setting_Up_Vim_In_Powershell)
