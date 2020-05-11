@@ -23,6 +23,7 @@ A collection of small write-up of things that I learn day to day. Inspired by [@
 * [Creating a .vimrc File](vim/Creating_A_Vimrc_File.md)
 * [Delete A Word Under The Cursor](vim/Delete_Word_Under_Cursor.md)
 * [Installing Plugins](vim/Adding_a_Plugin.md)
+* [Jumping to EOL and Entering Insert Mode](vim/Insert_at_EOL.md)
 * [Switch To Normal Mode For 1 Command](vim/Normal_Mode_For_One_Command.md)
 * [Setting Up Vim In Powershell](vim/Setting_Up_Vim_In_Powershell)
 
