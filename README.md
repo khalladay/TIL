@@ -1,15 +1,20 @@
 # Today I Learned
 
-A collection of small write-up of things that I learn day to day. Inspired by [@jbranchaud's TIL repo](https://github.com/jbranchaud/til)
+A collection of small write-ups of things that I learn day to day. Inspired by [@jbranchaud's TIL repo](https://github.com/jbranchaud/til)
+
+Mostly, this is a collection of stuff that I had to look up at one point or another, that I don't want to forget. 
 
 ## Categories
 
+* [C](#c)
 * [Chocolatey](#chocolatey)
 * [PowerShell](#powershell)
 * [Vim](#vim)
 * [VsCode](#vscode)
 
 ---
+### C
+* [Using memchr() to speed up searches](c/Memchr_And_Byte_Pattern_Searching.md)
 
 ### Chocolatey
 * [Upgrading Chocolatey](chocolatey(Updating_Chocolatey.md))
