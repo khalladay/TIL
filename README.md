@@ -10,6 +10,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Chocolatey](#chocolatey)
 * [PowerShell](#powershell)
 * [Vim](#vim)
+* [vulkan](#vulkan)
 * [VsCode](#vscode)
 
 ---
@@ -35,6 +36,9 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 ### Visual Studio
 * [Breakpoints On A Specific Thread Only](visualstudio/Debugging_Single_Thread.md)
 * [VS Shortcuts That Complement VsVim](visualstudio/KeyCommands_That_Complement_VsVim.md)
+
+### Vulkan
+* [Implicit Layers](vulkan/Implicit_Layers.md)
 
 ### VsCode
 * [Navigating Editor Panels With Key Commands](vscode/Navigating_Editor_Panels_KeyCommands.md)
