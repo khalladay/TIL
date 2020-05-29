@@ -35,6 +35,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### Visual Studio
 * [Breakpoints On A Specific Thread Only](visualstudio/Debugging_Single_Thread.md)
+* [Execute VS Commands From VsVim](visualstudio/VS_Commands_With_VsVim.md]
 * [VS Shortcuts That Complement VsVim](visualstudio/KeyCommands_That_Complement_VsVim.md)
 
 ### Vulkan
