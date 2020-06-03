@@ -23,6 +23,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 ### PowerShell
 * [Creating a PowerShell Profile Script](powershell/Powershell_Profile_Scripts.md)
 * [Killing Processes](powershell/Killing_Processes.md)
+* [Loop Syntax](powershell/Powershell_Loop_Syntax.md)
 * [Script Preconditions](powershell/Require_Preconditions_To_Run_Powershell.md)
 
 ### Vim
