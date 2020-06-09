@@ -2,7 +2,7 @@
 
 A collection of small write-ups of things that I learn day to day. Inspired by [@jbranchaud's TIL repo](https://github.com/jbranchaud/til)
 
-Mostly, this is a collection of stuff that I had to look up at one point or another, that I don't want to forget. 
+Mostly, this is a collection of stuff that I had to look up at one point or another, that I don't want to forget.
 
 ## Categories
 
@@ -36,6 +36,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### Visual Studio
 * [Breakpoints On A Specific Thread Only](visualstudio/Debugging_Single_Thread.md)
+* [Creating RC Files In VS](visualstudio/Create_Resource_Files_In_VS.md)
 * [Execute VS Commands From VsVim](visualstudio/VS_Commands_With_VSVim.md)
 * [VS Shortcuts That Complement VsVim](visualstudio/KeyCommands_That_Complement_VsVim.md)
 
