@@ -12,7 +12,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Vim](#vim)
 * [vulkan](#vulkan)
 * [VsCode](#vscode)
-
+* [Win32](#win32)
 ---
 ### C
 * [Using memchr() to speed up searches](c/Memchr_And_Byte_Pattern_Searching.md)
@@ -45,3 +45,6 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### VsCode
 * [Navigating Editor Panels With Key Commands](vscode/Navigating_Editor_Panels_KeyCommands.md)
+
+### Win32
+* [Alt Key Bypasses Foreground Lock](win32/Alt_Key_Unlocks_SetForegroundWindow.md)
