@@ -13,6 +13,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [vulkan](#vulkan)
 * [VsCode](#vscode)
 * [Win32](#win32)
+* [Windows](#windows)
 ---
 ### C
 * [Using memchr() to speed up searches](c/Memchr_And_Byte_Pattern_Searching.md)
@@ -48,3 +49,6 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### Win32
 * [Alt Key Bypasses Foreground Lock](win32/Alt_Key_Unlocks_SetForegroundWindow.md)
+
+### Windows
+* [Alt Shortcuts for Common Menu Items](windows/Alt_Shortcuts_For_Common_Menus.md)
