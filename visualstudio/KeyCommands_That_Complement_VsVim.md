@@ -12,13 +12,9 @@ Visual Studio is full of key commands, but I've disabled a lot of them in favor 
 | Ctrl + Alt + b | Go to Breakpoints Panel | 
 | Ctrl + Alt + h | Go to Threads Panel | 
 | Ctrl + Alt + c | Go To Callstack Panel | 
-
-
-The following are key shortcuts I added to Visual Studio (using the Tools->Options->Environment->Keyboard menu. 
-
-| Shortcut | Effect | 
-|----------|--------|
-| Shift + Alt + F | Go To Find Results 1 | 
+| Ctrl + Alt + F12 | Go To Find Symbol Results |
+| Ctrl + Alt + R | Go To Find Results 1 |
+| Ctrl + Alt + T | Go To Find Results 2 |
 
 There are still problems to be solved: 
 * Resizing Panels Without a Mouse
