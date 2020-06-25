@@ -49,8 +49,9 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### Win32
 * [Alt Key Bypasses Foreground Lock](win32/Alt_Key_Unlocks_SetForegroundWindow.md)
+* [Manually Set a DLL's Base Address](windows/Manually_Setting_DLL_BaseAddresses.md)
 
 ### Windows
 * [Alt Shortcuts for Common Menu Items](windows/Alt_Shortcuts_For_Common_Menus.md)
 * [Disabling ASLR Projectwide or Systemwide](windows/Disable_ASLR_ProjectWide_Or_SystemWide.md)
-* [Manually Set a DLL's Base Address](windows/Manually_Setting_DLL_BaseAddresses.md)
+* [Map Folder To Drive Letter](windows/Map_Folder_To_Drive_Letter.md)
