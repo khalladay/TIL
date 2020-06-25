@@ -40,6 +40,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Creating RC Files In VS](visualstudio/Create_Resource_Files_In_VS.md)
 * [Execute VS Commands From VsVim](visualstudio/VS_Commands_With_VSVim.md)
 * [VS Shortcuts That Complement VsVim](visualstudio/KeyCommands_That_Complement_VsVim.md)
+* [Write and Compile Assembly in VS](visualstudio/Write_And_Compile_Assembly_in_VS.md)
 
 ### Vulkan
 * [Implicit Layers](vulkan/Implicit_Layers.md)
