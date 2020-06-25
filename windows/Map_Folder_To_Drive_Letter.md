@@ -4,9 +4,9 @@ I set this up a long time ago and forgot how I did it (and then a windows update
 
 Doing this in a terminal is super easy: 
 
-'''powershell
+```powershell
 Subst W: <path to folder>
-'''
+```
 
 The trick is getting this to run at startup so you don't have to do it every time. For that, you can add a key to your registry to run the above command on startup: 
 
