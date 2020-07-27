@@ -7,6 +7,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 ## Categories
 
 * [C](#c)
+* [C++](#c++)
 * [Chocolatey](#chocolatey)
 * [PowerShell](#powershell)
 * [Vim](#vim)
@@ -17,6 +18,9 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 ---
 ### C
 * [Using memchr() to speed up searches](c/Memchr_And_Byte_Pattern_Searching.md)
+
+### C++
+* [Pointers To Member Functions](cpp/Pointers_To_Member_Functions_vs_Function_Pointers.md)
 
 ### Chocolatey
 * [Upgrading Chocolatey](chocolatey(Updating_Chocolatey.md))
