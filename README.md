@@ -54,6 +54,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### Win32
 * [Alt Key Bypasses Foreground Lock](win32/Alt_Key_Unlocks_SetForegroundWindow.md)
+* [Home Space In Stack Frames](win32/Home_Space_In_Stack_Memory.md)
 * [Hot Patching](win32/Hot_Patching_Functions.md)
 * [How DLLs Get Base Addresses With ASLR Enabled](win32/How_DLLs_Get_Base_Addresses_With_ASLR.md)
 * [Manually Set a DLL's Base Address](win32/Manually_Setting_DLL_BaseAddresses.md)
