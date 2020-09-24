@@ -7,7 +7,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 ## Categories
 
 * [C](#c)
-* [C++](#c++)
+* [Cpp](#cpp)
 * [Chocolatey](#chocolatey)
 * [PowerShell](#powershell)
 * [Vim](#vim)
@@ -19,7 +19,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 ### C
 * [Using memchr() to speed up searches](c/Memchr_And_Byte_Pattern_Searching.md)
 
-### C++
+### Cpp
 * [Pointers To Member Functions](cpp/Pointers_To_Member_Functions_vs_Function_Pointers.md)
 
 ### Chocolatey
@@ -35,6 +35,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Creating a .vimrc File](vim/Creating_A_Vimrc_File.md)
 * [Cutting and Pasting With Registers](vim/Cutting_Pasting_With_Registers.md)
 * [Delete A Word Under The Cursor](vim/Delete_Word_Under_Cursor.md)
+* [How 'p' Decides Where To Paste](vim/How_P_Works_In_Vim.md)
 * [Installing Plugins](vim/Adding_a_Plugin.md)
 * [Jumping to EOL and Entering Insert Mode](vim/Insert_at_EOL.md)
 * [Switch To Normal Mode For 1 Command](vim/Normal_Mode_For_One_Command.md)
