@@ -39,6 +39,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Jumping to EOL and Entering Insert Mode](vim/Insert_at_EOL.md)
 * [Switch To Normal Mode For 1 Command](vim/Normal_Mode_For_One_Command.md)
 * [Setting Up Vim In Powershell](vim/Setting_Up_Vim_In_Powershell.md)
+* [String Substitution](vim/Search_And_Replacing_In_Vim.md)
 
 ### Visual Studio
 * [Breakpoints On A Specific Thread Only](visualstudio/Debugging_Single_Thread.md)
