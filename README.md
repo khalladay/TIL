@@ -6,6 +6,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ## Categories
 
+* [Assembly](#assembly)
 * [C](#c)
 * [Cpp](#cpp)
 * [Chocolatey](#chocolatey)
@@ -16,6 +17,9 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Win32](#win32)
 * [Windows](#windows)
 ---
+### Assembly
+* [Zeroing a Register](assembly/Zeroing_A_Register.md)
+
 ### C
 * [Using memchr() to speed up searches](c/Memchr_And_Byte_Pattern_Searching.md)
 
