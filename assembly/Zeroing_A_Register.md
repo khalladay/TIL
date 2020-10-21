@@ -8,7 +8,7 @@ You'd think it would be
 mov eax,0
 ```
 
-Which is very fast (1 instruction per cycle), but is 5 bytes long. Honestly this is probably good enough for almost all cases, but there's a smaller (so less i-cache misses) and faster (due to CPU trickery) option. Instead of the above, you should instead use:
+Which is very fast (latency of 1 instruction per cycle), but is 5 bytes long. Honestly this is probably good enough for almost all cases, but there's a smaller (so less i-cache misses) and faster (due to CPU trickery) option. Instead of the above, you should instead use:
 
 ```asm
 xor eax,eax
