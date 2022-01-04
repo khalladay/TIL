@@ -27,7 +27,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Pointers To Member Functions](cpp/Pointers_To_Member_Functions_vs_Function_Pointers.md)
 
 ### Chocolatey
-* [Upgrading Chocolatey](chocolatey(Updating_Chocolatey.md))
+* [Upgrading Chocolatey](chocolatey/Updating_Chocolatey.md)
 
 ### PowerShell
 * [Creating a PowerShell Profile Script](powershell/Powershell_Profile_Scripts.md)
@@ -50,6 +50,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Always Execute PreBuild and PostBuild Commands](visualstudio/Make_PostBuild_Commands_Always_Run.md)
 * [Breakpoints On A Specific Thread Only](visualstudio/Debugging_Single_Thread.md)
 * [Disable Creation of .ipdb and .iobj files](visualstudio/Disable_Creation_of_ipdb_and_iobj.md)
+* [Disabling Exceptions In a C++ Project](visualstudio/Disable_Exceptions_Cpp_Project.md)
 * [Creating RC Files In VS](visualstudio/Create_Resource_Files_In_VS.md)
 * [Execute VS Commands From VsVim](visualstudio/VS_Commands_With_VSVim.md)
 * [Macros for Directories For VS Project Settings](visualstudio/Macros_For_Settings_In_VS.md)
