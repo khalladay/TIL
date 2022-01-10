@@ -10,6 +10,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [C](#c)
 * [Cpp](#cpp)
 * [Chocolatey](#chocolatey)
+* [Misc](#misc)
 * [PowerShell](#powershell)
 * [Vim](#vim)
 * [vulkan](#vulkan)
@@ -28,6 +29,9 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### Chocolatey
 * [Upgrading Chocolatey](chocolatey/Updating_Chocolatey.md)
+
+### Misc
+* [Robocopy Subdirectories Recursively](misc/Robocopy_Copy_Directory_Recursively.md)
 
 ### PowerShell
 * [Creating a PowerShell Profile Script](powershell/Powershell_Profile_Scripts.md)
