@@ -73,6 +73,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Hot Patching](win32/Hot_Patching_Functions.md)
 * [How DLLs Get Base Addresses With ASLR Enabled](win32/How_DLLs_Get_Base_Addresses_With_ASLR.md)
 * [Manually Set a DLL's Base Address](win32/Manually_Setting_DLL_BaseAddresses.md)
+* [Setting Sleep Resolution (or how to sleep for 1 ms)](win32/Setting_Sleep_Resolution.md)
 
 ### Windows
 * [Alt Shortcuts for Common Menu Items](windows/Alt_Shortcuts_For_Common_Menus.md)
