@@ -10,7 +10,6 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [C](#c)
 * [Cpp](#cpp)
 * [Chocolatey](#chocolatey)
-* [DX12](#dx12)
 * [Linux](#linux)
 * [Misc](#misc)
 * [PowerShell](#powershell)
@@ -31,9 +30,6 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### Chocolatey
 * [Upgrading Chocolatey](chocolatey/Updating_Chocolatey.md)
-
-### DX12
-* [Creating an SRV For a Depth Buffer](dx12/Create_An_SRV_For_Depth_Buffer.md)
 
 ### Linux
 * [Checking If A User Account Is Disabled](linux/Checking_If_A_User_Is_Disabled.md)
