@@ -33,6 +33,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### Linux
 * [Checking If A User Account Is Disabled](linux/Checking_If_A_User_Is_Disabled.md)
+* [Creating A New User](linux/Creating_A_New_User.md)
 
 ### Misc
 * [Robocopy Subdirectories Recursively](misc/Robocopy_Copy_Directory_Recursively.md)
