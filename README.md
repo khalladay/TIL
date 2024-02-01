@@ -63,6 +63,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Creating RC Files In VS](visualstudio/Create_Resource_Files_In_VS.md)
 * [Execute VS Commands From VsVim](visualstudio/VS_Commands_With_VSVim.md)
 * [Macros for Directories For VS Project Settings](visualstudio/Macros_For_Settings_In_VS.md)
+* [Setting up a Precompiled Header](visualstudio/Setting_Up_a_PCH.md)
 * [VS Shortcuts That Complement VsVim](visualstudio/KeyCommands_That_Complement_VsVim.md)
 * [Write and Compile Assembly in VS](visualstudio/Write_And_Compile_Assembly_in_VS.md)
 
