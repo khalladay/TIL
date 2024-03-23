@@ -10,6 +10,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [C](#c)
 * [Cpp](#cpp)
 * [Chocolatey](#chocolatey)
+* [Git](#git)
 * [Linux](#linux)
 * [Misc](#misc)
 * [PowerShell](#powershell)
@@ -30,6 +31,9 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 
 ### Chocolatey
 * [Upgrading Chocolatey](chocolatey/Updating_Chocolatey.md)
+
+## Git
+* [Fixing a mistyped password](git/Fix_Mistyped_Password_Git.md)
 
 ### Linux
 * [Checking If A User Account Is Disabled](linux/Checking_If_A_User_Is_Disabled.md)
