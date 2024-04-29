@@ -66,6 +66,7 @@ Mostly, this is a collection of stuff that I had to look up at one point or anot
 * [Disabling Exceptions In a C++ Project](visualstudio/Disable_Exceptions_Cpp_Project.md)
 * [Creating RC Files In VS](visualstudio/Create_Resource_Files_In_VS.md)
 * [Execute VS Commands From VsVim](visualstudio/VS_Commands_With_VSVim.md)
+* [Execute Batch Files in Post Build Commands](visualstudio/Execute_Batch_Files_In_PostBuild_Command.md)
 * [Macros for Directories For VS Project Settings](visualstudio/Macros_For_Settings_In_VS.md)
 * [Setting up a Precompiled Header](visualstudio/Setting_Up_a_PCH.md)
 * [VS Shortcuts That Complement VsVim](visualstudio/KeyCommands_That_Complement_VsVim.md)
